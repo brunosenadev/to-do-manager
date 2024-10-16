@@ -32,7 +32,7 @@ Este é um simples gerenciador de tarefas desenvolvido em Python, ideal para est
 
 - **Clone o repositório:**
 ```bash
-    git clone https://github.com/seu-usuario/to-do-manager.git
+    git clone https://github.com/brunosenadev/to-do-manager.git
 ```
 - **Navegue até o diretório do projeto:**
 ```bash
